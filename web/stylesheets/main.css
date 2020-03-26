@@ -34,3 +34,18 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
+
+.main-color{
+  background-color: #30db83;
+}
+.header-text{
+  font-size: 1.5em;
+  text-decoration: underline;
+  text-decoration-color: #30db83;
+}
+
+.subtext{
+  font-size: 1em;
+  font-style: italic;
+}
+
